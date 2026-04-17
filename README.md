@@ -47,8 +47,3 @@ The CIFAR-10 dataset consists of:
 
 ---
 
-## 🛠️ How to Run
-
-### 1. Clone the repository
-```bash
-git clone <your-repository-link>
